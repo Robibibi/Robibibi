@@ -2,7 +2,7 @@
 
 I'm a French engineering student, currently at my 5th and final year at ESME Paris. I'm majoring in the Artificial Intelligence branch!
 
-## Current project : [Predicting the air pollution in cities with Deep Learning](https://github.com/LauNop/PFE-ESME-predict_cities_air_pollution) as my end of study project.
+## Current project : [Predicting the air pollution in cities with Deep Learning](https://github.com/ESMEAirPollutionPrediction) as my end of study project.
 
 
 <!---
