@@ -2,6 +2,8 @@
 
 I'm a French engineering student, currently at my 5th and final year at ESME Paris. I'm majoring in the Artificial Intelligence branch!
 
+My last semester ends on the 21st of March 2024, after which I'll begin an internship at Thales LAS centered around DevOps and CI/CD!
+
 ## Current project : [Predicting the air pollution in cities with Deep Learning](https://github.com/ESMEAirPollutionPrediction) as my end of study project.
 
 
